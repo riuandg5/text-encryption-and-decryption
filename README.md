@@ -4,7 +4,9 @@ Encrypt and decrypt text in C
 ENCRYPTION
 -----------------
 --> Have some text input as string.
-    Ex--> RISHU
+
+Ex--> RISHU
+
 --> Add a pointer at the end of string.
     Ex--> RISHU|
 --> Apply Burrows Wheeler Transformation.
