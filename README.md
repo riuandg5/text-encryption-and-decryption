@@ -72,8 +72,6 @@ DECRYPTION
 
 Ex--> Encrypted  Arrange   Add     Arrange   Add     Arrange   Add     Arrange   Add     Arrange   Add
 
-       coloumn
-       
       ---------  -------   ------  -------   ------  -------   ------  -------   ------  -------   ------
       
           S      H         SH      HU        SHU      HU|      SHU|    HU|R      SHU|R   HU|RI     SHU|RI
