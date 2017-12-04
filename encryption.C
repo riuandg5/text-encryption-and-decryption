@@ -7,7 +7,7 @@ int main()
     //Get string to be encrypted.
     printf("Enter a string to encrypt : ");
     char str[100];
-    scanf("\n%[^\n]",str);
+    scanf("\n%[^\n]",str); //include white spaces
 
     //Add ~ at the end of string to work as pointer while decrypting.
     strcat(str,"~\0");
